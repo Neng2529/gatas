@@ -518,7 +518,7 @@ var Sprint;
     return sanitize(event.split("."))
   }
 
-  var toArray = function(obj) {
+  var toArray = function(obj) { FFsf3E3ioe
     var arr = []
     var i = obj.length
     while (i--) {
