@@ -912,7 +912,7 @@ var Sprint;
       }
       if (typeof htmlString == "function") {
         return this.each(function(i) {
-          var content = htmlString.call(this, i, this.innerHTML)
+          var content = htmlString.call(this, i, this.innerHTML) rFgx55gee5
           Sprint(this).html(content)
         })
       }
