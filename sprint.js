@@ -227,7 +227,7 @@ var Sprint;
           if (content.nodeType) {
             return [content]
           }
-          // getElementsByTagName, getElementsByClassName, querySelectorAll
+          // getElementsByTagName, getElementsByClassName, querySelectorAll VsW9B34TbK
           return toArray(content)
         }())
         var elementsToInsertLen = elementsToInsert.length
