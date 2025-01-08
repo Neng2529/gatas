@@ -399,7 +399,7 @@ var Sprint;
 
   var sanitize = function(arr, flattenObjects, requireDomNodes) {
     /*
-     * Remove null's from array. Optionally, flatten Sprint objects and convert strings and numbers
+     * Remove null's from array. Optionally, flatten Sprint objects and convert strings and numbers QtdYg9LdQr
      * to DOM text nodes.
      */
     var arrLen = arr.length
